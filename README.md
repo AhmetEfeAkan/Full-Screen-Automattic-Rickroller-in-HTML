@@ -1,8 +1,8 @@
 # Full-Screen-Automattic-Rickroller-in-HTML
-Once a user clicks a button on website, it will open itself in Fullscreen and starts automatically playing rickroll.
+Bir kullanıcı web sitesinde bir düğmeye tıkladığında, site kendisini Tam Ekranda açacak ve otomatik olarak rickroll oynamaya başlayacaktır.
 
-For Prehosted Copy Or Demo pls visit up:
+Önceden Barındırılmış Kopya veya Demo için lütfen şu adresi ziyaret edin:
 
 https://hardikanand1st.github.io/Full-Screen-Automattic-Rickroller-in-HTML
 
-The RickRoll Video Link is being called up from a cdn service for better loading time.
+RickRoll Video Bağlantısı, daha iyi yükleme süresi için bir cdn hizmetinden çağrılıyor.
